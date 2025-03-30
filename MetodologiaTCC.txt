@@ -1,0 +1,51 @@
+TCC
+Trabalho de Conclusão de Curso, como o nome sugere, é um trabalho que deve resumir o conteudo do curso como um todo. É um projeto de pesquisa que deve começar com uma pergunta e finalizar com uma resposta. É composto por 3 capítulos básicos: Referencial teórico, metodologia, pesquisa empírica e resultados.
+-Referencial teórico: resultado de uma pesquisa bibliográfica sobre um assunto estudado no curso. Nesse capitulo se define o que é, o que come e onde vive o assunto.
+-: situação real e prática já existente, sobre o assunto.
+-: análise criticas das causas do assunto.
+https://www.youtube.com/watch?v=BnzAikC714w&list=PLqjhbhrS3n1vIwYvwJFBEQwdHHojZgD6Y&index=5
+
+Classificação: Finalidadee, objetivos, abordagem, métodos e procedimentos;
+https://www.youtube.com/watch?v=n7usiRpZuwo&list=PLqjhbhrS3n1vIwYvwJFBEQwdHHojZgD6Y&index=2
+
+Finalidade: pesquisa básica pura, básica estratégica ou aplicada
+-Pesquisa básica pura: 100% teórico com objetivo de ampliar o conhecimento sobre o assunto e para o debate acadêmico. Ex.: Estudo de planta para identificar suas propriedades quimicas 
+-Pesquisa básica estratégica: estudo teórico que pode ser usado na prática por ser parte da solução de algum problema. Ex.: Estudo das propriedades quimicas de uma planta para se identificar as substâncias que se pode extrair dela.
+-Pesquisa aplicada: Parte de um problema conhecido para solucionar algum problema concreto demonstrado desde o inicio do trabalho e normalmente parte de pesquisas básicas anteriores. Ex: estudo do efeito das substâncias extraidas de uma planta para uso em animais para criação de um remédio.
+https://www.youtube.com/watch?v=QyaUJlFLYvQ&list=PLqjhbhrS3n1vIwYvwJFBEQwdHHojZgD6Y&index=3
+
+Objetivos: Pesquisa descritiva, exploratória ou explicativa
+-Pesquisa descritiva: Voltada para monografias ou artigos, descreve o máximo possível sobre o assunto estudado, baseando-se em livros e trabalhos acadêmicos. Aqui, se procura organizar as informações já disponíveis. Ex: Análise de uma nova lei para definir se ela é constitucional. Nesse caso, descreve-se a lei e depois os princípios constitucionais para, finalmente, comparar a compatibilidade de ambas.
+=Vc pretende pesquisar sobre um assunto que ja existe, é bastante conhecido e tem farto material de pesqiusa? 
+-Pesquisa exploratória: Visa apresentar algo novo, propondo problemas de pesquisa ou hipóteses. Pesquisa de campo para coleta de dados.
+=Vc pretende pesquisar sobre um pouco conhecido e terá que ir além dos livros? 
+-Pesquisa explicativa: Geralmente usada em teses de doutorado visando encontrar fundamentos de um fenômeno. Continuação de outras pesquisas exploratória.
+=Vc pretende pesquisar sobre um ponto de vista novo Para ampliar o conhecimento científico e criar um novo processo? 
+-Pesquisa descritiva e exploratória: ***
+https://www.youtube.com/watch?v=lskadJItTSI&list=PLqjhbhrS3n1vIwYvwJFBEQwdHHojZgD6Y&index=10
+
+Abordagem: Pesquisa qualitativa, quantitativa ou quali-quantitativa
+-Pesquisa qualitativa: Pesquisa de caráter subjetivo, na qual a ferramenta mais importante é o próprio pesquisador, que vai atuar como analista, interpretando as informações adquiridas durante o levantamento e desenvolvimento dos capítulos, passo a passo, até tirar as próprias conclusões não numéricas e exatas, mas valorativas. Importante ressaltar que, mesmo que o trabalho apresente dados, gráficos e tabelas,mas é vc quem vai interpretar criticamente esses números, a pesquisa continuará sendo qualitativa
+-Pesquisa quantitativa: Utiliza-se de ferramentas matemáticas e técnicas estatísticas para fazer medição numérica das relações entre os dados coletados de maneira estritamente numérica. Nesse modelo, o pesquisador, atuando como observador, faz um esforço intelectual mínimo para analisar os dados, concentrando-se ao máximo em coletar as informações. Esse tipo de trabalho é comum em mestrados e doutorados, principalmente em ciencias exatas ou sociais.
+-Pesquisa quali-quantitativa: Mistura das outras duas, mostraria por exemplo, a proporcionalidade de intenções de voto, em determinada região, modelando a população pesquisada por situação socioeconômica (quantitativa), investigando criticamente as evidências e concluindo conforme um critério próprio de interpretação.
+https://www.youtube.com/watch?v=T16WcPBSNek&list=PLqjhbhrS3n1vIwYvwJFBEQwdHHojZgD6Y&index=9
+
+Métodos: Indutivo, dedutivo, dialético ou hipotetico-dedutivo
+-Indutivo:
+-dedutivo:
+-dialético:
+-hipotetico-dedutivo:
+https://www.youtube.com/watch?v=NLMf3OKFJxg&list=PLqjhbhrS3n1vIwYvwJFBEQwdHHojZgD6Y&index=4
+
+Procedimentos: Pesquisa bibliográfica, documental, estudo de caso, pesquisa experimental, pesquisa de campo, ex post facto, pesquisa de levantamento, pesquisa ação e pesquisa participante.
+-Pesquisa bibliográfica
+-documental:
+-estudo de caso:
+-pesquisa experimental:
+-pesquisa de campo:
+-ex post facto:
+-pesquisa de levantamento:
+-pesquisa ação:
+-pesquisa participante.:
+https://www.youtube.com/watch?v=2jkk7zdhNAY&list=PLqjhbhrS3n1vIwYvwJFBEQwdHHojZgD6Y&index=6
+https://www.youtube.com/watch?v=UtPTB1D_bAk&list=PLqjhbhrS3n1vIwYvwJFBEQwdHHojZgD6Y&index=7
